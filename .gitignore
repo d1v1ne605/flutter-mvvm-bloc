@@ -79,3 +79,5 @@ lib/env
 lib/core/l10n/app_localizations*.dart
 .vscode.fvm/
 .fvmrc
+
+injection.config.dart
